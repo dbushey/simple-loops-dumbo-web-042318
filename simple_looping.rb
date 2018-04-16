@@ -39,7 +39,7 @@ def while_iterator(number_of_times)
     puts phrase
     counter = counter + 1
   end
- 
+
 
 end
 
